@@ -107,7 +107,7 @@ The same dataset is used for both regression and classification tasks.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Shooqaladwani/MI-Project.git
+git clone (https://github.com/Shooqaladwani/Machine-Learning-Salary-Prediction.git)
 
 cd MI-Project
 ```
