@@ -29,7 +29,7 @@ MI-Project/
 │   └── Salary_Data.csv
 │
 ├── Documentation/
-│   └── ML_Project_Report.pdf
+│   └── ML_Salary_Prediction_Report.pdf
 │
 ├── Images/
 │   ├── Home_Page.png
